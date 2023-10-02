@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3a80dfd-f879-47c3-88e2-8804c6703ea2" name="Changes" comment="">
+    <list default="true" id="f3a80dfd-f879-47c3-88e2-8804c6703ea2" name="Changes" comment="ex4 creare fisier">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cantec_in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cantec_in.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/judete_in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/judete_in.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/ex4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +49,14 @@
       <option name="presentableId" value="Default" />
       <updated>1696259373020</updated>
     </task>
+    <task id="LOCAL-00001" summary="ex4 creare fisier">
+      <created>1696265386207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696265386207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ex4 creare fisier" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex4 creare fisier" />
   </component>
 </project>
